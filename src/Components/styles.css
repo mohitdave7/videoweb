@@ -1,0 +1,10 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+};
+.clip{
+    display: flex !important;
+}
+
